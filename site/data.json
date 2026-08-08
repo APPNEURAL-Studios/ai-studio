@@ -1,0 +1,122 @@
+{
+  "slug": "ai-studio",
+  "host": "ai",
+  "title": "AI Studio",
+  "tagline": "Prompts, agents, knowledge and automation",
+  "description": "Craft and manage LLM prompts, autonomous agents, chatbot flows, knowledge bases, and RAG pipelines. Configure personas, guardrails, output schemas, evaluations, prompt chains, model settings, and human-in-the-loop approval workflows.",
+  "editors": [
+    {
+      "category": "AI & Automation Editors",
+      "name": "Prompt Editor",
+      "desc": "LLM prompt crafting and testing"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "AI Agent Editor",
+      "desc": "Autonomous agent configuration"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "Chatbot Flow Editor",
+      "desc": "Conversational flow design"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "Knowledge Base Editor",
+      "desc": "AI knowledge corpus management"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "RAG Pipeline Editor",
+      "desc": "Retrieval-augmented generation setup"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "AI Persona Editor",
+      "desc": "AI character/persona definition"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "AI Guardrail Editor",
+      "desc": "Safety and content filter rules"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "Output Schema Editor",
+      "desc": "AI output structure definition"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "AI Evaluation Editor",
+      "desc": "Model output quality assessment"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "Prompt Chain Editor",
+      "desc": "Multi-step prompt orchestration"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "Model Configuration Editor",
+      "desc": "Model params (temp, tokens, etc.)"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "Automation Rule Editor",
+      "desc": "If-this-then-that rule builder"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "Approval Flow Editor",
+      "desc": "Human-in-the-loop approval chains"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "Notification Flow Editor",
+      "desc": "Alert and notification routing"
+    },
+    {
+      "category": "AI & Automation Editors",
+      "name": "AI Content Studio",
+      "desc": "AI-assisted content generation"
+    }
+  ],
+  "services": [
+    [
+      "model",
+      "core"
+    ],
+    [
+      "agent",
+      "core"
+    ],
+    [
+      "codegen",
+      "core"
+    ],
+    [
+      "knowledge",
+      "core"
+    ],
+    [
+      "document",
+      "core"
+    ],
+    [
+      "search",
+      "core"
+    ],
+    [
+      "automation",
+      "core"
+    ],
+    [
+      "workflow",
+      "core"
+    ],
+    [
+      "recommendation",
+      "gap"
+    ]
+  ]
+}
